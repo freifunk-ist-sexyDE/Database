@@ -1,0 +1,7 @@
+SSID="ExampleNetwork"
+PW=""
+LOGINURL=""
+LOGINSPEC=""
+DNS="8.8.8.8"
+DNS0="8.8.4.4"
+CENSOR="5900-6000"
